@@ -4,8 +4,8 @@ import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
 import com.fifth.day.Order;
-import com.test.service.AppCOnfig;
-import com.test.service.OrderService;
+import com.service.congif.AppCOnfig;
+import com.service.congif.OrderService;
 
 /**
  * Hello world!
